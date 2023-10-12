@@ -1,0 +1,14 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "a simple app for traker your task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-dev"
+  },
+  "author": "Agus-Baez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
